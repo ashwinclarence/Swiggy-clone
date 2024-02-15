@@ -10,6 +10,7 @@
     left: 0;
     background-color: #fff;
     z-index: 99;
+    transition: .3s ease-in-out;
 }
 .navbar-container{
     font-size: 15px;
@@ -201,6 +202,7 @@
     background-color: #fff;
     z-index: 99;
     box-shadow: 1px 1px 10px #cacaca;
+    transition: .3s ease-in-out;
 }
 .whole-post-row-header h5{
     font-size: 25px;
@@ -212,6 +214,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 11px 10px;
+    transition: .3s ease-in-out;
 }
 .inner-filter{
     border: 1px solid #c9c9c9;
